@@ -1,0 +1,200 @@
+# depslib dependency file v1.0
+1602686917 source:c:\users\nicolas\desktop\parcial\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"otherfunctions.h"
+	"validaciones.h"
+	"autos.h"
+	"colorAuto.h"
+	"marca.h"
+	"servicios.h"
+	"trabajo.h"
+
+1602642767 c:\users\nicolas\desktop\parcial\parcial1\otherfunctions.h
+
+1602685648 c:\users\nicolas\desktop\parcial\parcial1\validaciones.h
+	"marca.h"
+	"colorAuto.h"
+
+1602685629 source:c:\users\nicolas\desktop\parcial\parcial1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"validaciones.h"
+	"marca.h"
+	"colorAuto.h"
+
+1602684720 source:c:\users\nicolas\desktop\parcial\parcial1\otherfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"otherfunctions.h"
+	"validaciones.h"
+
+1602682127 source:c:\users\nicolas\desktop\parcial\parcial1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1602677841 c:\users\nicolas\desktop\parcial\parcial1\marca.h
+
+1602686927 source:c:\users\nicolas\desktop\parcial\parcial1\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	"servicios.h"
+
+1602686924 c:\users\nicolas\desktop\parcial\parcial1\servicios.h
+
+1602686959 source:c:\users\nicolas\desktop\parcial\parcial1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"autos.h"
+	"servicios.h"
+	"marca.h"
+	"colorAuto.h"
+	"validaciones.h"
+
+1602686754 c:\users\nicolas\desktop\parcial\parcial1\trabajo.h
+	"autos.h"
+	"servicios.h"
+	"marca.h"
+	"colorAuto.h"
+
+1602683600 source:c:\users\nicolas\desktop\parcial\parcial1\autos.c
+	<stdio.h>
+	<stdlib.h>
+	"autos.h"
+	"marca.h"
+	"colorAuto.h"
+	"validaciones.h"
+
+1602683514 c:\users\nicolas\desktop\parcial\parcial1\autos.h
+	"colorAuto.h"
+	"marca.h"
+
+1602677597 c:\users\nicolas\desktop\parcial\parcial1\colorauto.h
+
+1602682127 source:c:\users\nicolas\desktop\parcial\parcial1\colorauto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"colorAuto.h"
+
+1603287184 source:c:\users\nicolas\desktop\parcial1\autos.c
+	<stdio.h>
+	<stdlib.h>
+	"autos.h"
+	"marca.h"
+	"colorAuto.h"
+	"validaciones.h"
+
+1602683514 c:\users\nicolas\desktop\parcial1\autos.h
+	"colorAuto.h"
+	"marca.h"
+
+1602677597 c:\users\nicolas\desktop\parcial1\colorauto.h
+
+1602677841 c:\users\nicolas\desktop\parcial1\marca.h
+
+1603289116 c:\users\nicolas\desktop\parcial1\validaciones.h
+	"marca.h"
+	"colorAuto.h"
+	"servicios.h"
+
+1602682127 source:c:\users\nicolas\desktop\parcial1\colorauto.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"colorAuto.h"
+
+1602682127 source:c:\users\nicolas\desktop\parcial1\marca.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"marca.h"
+
+1603239429 source:c:\users\nicolas\desktop\parcial1\servicios.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"servicios.h"
+
+1602686924 c:\users\nicolas\desktop\parcial1\servicios.h
+
+1603286009 source:c:\users\nicolas\desktop\parcial1\trabajo.c
+	<stdio.h>
+	<stdlib.h>
+	"trabajo.h"
+	"autos.h"
+	"servicios.h"
+	"marca.h"
+	"colorAuto.h"
+	"validaciones.h"
+
+1603285722 c:\users\nicolas\desktop\parcial1\trabajo.h
+	"autos.h"
+	"servicios.h"
+	"marca.h"
+	"colorAuto.h"
+
+1603290075 source:c:\users\nicolas\desktop\parcial1\validaciones.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"validaciones.h"
+	"marca.h"
+	"colorAuto.h"
+	"servicios.h"
+
+1603287988 source:c:\users\nicolas\desktop\parcial1\main.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"otherfunctions.h"
+	"validaciones.h"
+	"autos.h"
+	"colorAuto.h"
+	"marca.h"
+	"servicios.h"
+	"trabajo.h"
+
+1603288001 c:\users\nicolas\desktop\parcial1\otherfunctions.h
+	"validaciones.h"
+	"autos.h"
+	"marca.h"
+	"colorAuto.h"
+	"servicios.h"
+	"trabajo.h"
+
+1603291236 source:c:\users\nicolas\desktop\parcial1\otherfunctions.c
+	<stdio.h>
+	<stdlib.h>
+	<ctype.h>
+	"otherfunctions.h"
+	"validaciones.h"
+	"informes.h"
+	"autos.h"
+	"marca.h"
+	"colorAuto.h"
+	"servicios.h"
+	"trabajo.h"
+
+1603291494 source:c:\users\nicolas\desktop\parcial1\informes.c
+	<stdio.h>
+	<stdlib.h>
+	"autos.h"
+	"colorAuto.h"
+	"marca.h"
+	"trabajo.h"
+	"servicios.h"
+
+1603290749 c:\users\nicolas\desktop\parcial1\informes.h
+	"autos.h"
+	"colorAuto.h"
+	"marca.h"
+	"trabajo.h"
+	"servicios.h"
+
